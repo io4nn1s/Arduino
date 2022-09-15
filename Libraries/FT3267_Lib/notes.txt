@@ -1,0 +1,9 @@
+
+/* In the main program file use the following: */
+
+
+#include "display.h"
+#include "FT3267.h"
+
+//Declare CTP driver
+FT3267 ctp = FT3267(INT_CTP, RES_CTP);
