@@ -5,7 +5,7 @@
  * Description:     This is a basic library for Arduino compatible microcontrollers
  *                  for driving the FT3267 capacitive touch controller. 
  *
- * Copyright (C) 2022  Midas Displays
+ * Copyright (c) 2022 Ioannis Antonakis
  * 
  * Author(s):       I. Antonakis 
  * Date:            12/11/2021

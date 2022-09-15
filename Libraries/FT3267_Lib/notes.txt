@@ -2,7 +2,6 @@
 /* In the main program file use the following: */
 
 
-#include "display.h"
 #include "FT3267.h"
 
 //Declare CTP driver
