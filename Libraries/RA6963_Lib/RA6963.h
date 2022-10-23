@@ -1,5 +1,4 @@
 //===============================================================
-//          Midas Displays
 //    Display    : 128*64 LCD (works up to 240*128 resolution)
 //    Controller : RA6963  (font 8*8)
 //    Author     : Ioannis
